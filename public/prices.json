@@ -1,0 +1,48 @@
+[
+    {
+      "id": 1,
+      "name": "Basic Package",
+      "features": [
+        "Access to cardio equipment",
+        "Free weights area"
+      ],
+      "price": 29.99
+    },
+    {
+      "id": 2,
+      "name": "Premium Package",
+      "features": [
+        "Access to all gym equipment",
+        "Group fitness classes"
+      ],
+      "price": 49.99
+    },
+    {
+      "id": 3,
+      "name": "Student Discount",
+      "features": [
+        "Valid student ID required",
+        "Access during off-peak hours"
+      ],
+      "price": 19.99
+    },
+    {
+      "id": 4,
+      "name": "Family Membership",
+      "features": [
+        "Access for up to 4 family members",
+        "Childcare services"
+      ],
+      "price": 79.99
+    },
+    {
+      "id": 5,
+      "name": "Senior Package",
+      "features": [
+        "Specialized senior fitness classes",
+        "Personal trainer sessions"
+      ],
+      "price": 24.99
+    }
+  ]
+  
